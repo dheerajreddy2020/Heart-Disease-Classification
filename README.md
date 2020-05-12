@@ -1,2 +1,2 @@
-# Signs-Dataset-Classification
-Hand signs to numbers data set classified by building a ResNet50 model
+# Heart Disease Identification
+From different parameters Heart disease binary classification is done with the help of scikit learn toolkit
